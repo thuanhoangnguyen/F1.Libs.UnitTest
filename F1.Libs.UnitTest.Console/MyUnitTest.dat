@@ -1,0 +1,4 @@
+[
+{"Desc":"Test case 1", "TestItems": [{"Input":"abc","EOP":"123"},{"Input":"def","EOP":"456"}]},
+{"Desc":"Test case 2", "TestItems": [{"Input":"def","EOP":"aab"},{"Input":"uhg","EOP":"aaa"}]}
+]
